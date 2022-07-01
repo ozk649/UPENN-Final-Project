@@ -6,4 +6,4 @@ The final project of the Cybersecurity Certificate program at UPenn consisted of
 3. Perform packet analysis of the network using Wireshark, identify host machines engaged in malicious and illegal activities
 
 
-![image](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Final%20Project.jpg)
+	![image](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Final%20Project.jpg)
