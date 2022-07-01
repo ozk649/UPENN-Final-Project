@@ -11,5 +11,3 @@ The final project of the Cybersecurity Certificate program at UPenn consisted of
 
 
 	![image](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Final%20Project.jpg)
-
-
