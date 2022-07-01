@@ -9,7 +9,7 @@ The final project of the Cybersecurity Certificate program at UPenn consisted of
 
 [The Red Team Report](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Red%20Team_%20Summary%20of%20Operations%20-%20OKhan.pdf)
 
-[Network Aanlysis](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Network%20Analysis%20-%20OKhan.pdf)
+[Network Analysis](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Network%20Analysis%20-%20OKhan.pdf)
 
 
 	![image](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Final%20Project.jpg)
