@@ -6,7 +6,9 @@ The final project of the Cybersecurity Certificate program at UPenn consisted of
 3. Perform packet analysis of the network using Wireshark, identify host machines engaged in malicious and illegal activities
 
 [The Blue Team Report](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Blue%20Team_%20Summary%20of%20Operations%20-%20OKhan.pdf)
+
 [The Red Team Report](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Red%20Team_%20Summary%20of%20Operations%20-%20OKhan.pdf)
+
 [Network Aanlysis](https://github.com/ozk649/UPENN-Final-Cybersecurity-Project/blob/main/Network%20Analysis%20-%20OKhan.pdf)
 
 
